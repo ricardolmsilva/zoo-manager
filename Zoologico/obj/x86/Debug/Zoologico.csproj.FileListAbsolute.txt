@@ -1,0 +1,5 @@
+/Users/ricardosilva/Documents/CTeSP/Semestre_II/POO/Projeto_Final/Zoologico/bin/Debug/Zoologico.exe
+/Users/ricardosilva/Documents/CTeSP/Semestre_II/POO/Projeto_Final/Zoologico/bin/Debug/Zoologico.pdb
+/Users/ricardosilva/Documents/CTeSP/Semestre_II/POO/Projeto_Final/Zoologico/obj/x86/Debug/Zoologico.exe
+/Users/ricardosilva/Documents/CTeSP/Semestre_II/POO/Projeto_Final/Zoologico/obj/x86/Debug/Zoologico.pdb
+/Users/ricardosilva/Documents/CTeSP/Semestre_II/POO/Projeto_Final/Zoologico/obj/x86/Debug/Zoologico.csprojAssemblyReference.cache

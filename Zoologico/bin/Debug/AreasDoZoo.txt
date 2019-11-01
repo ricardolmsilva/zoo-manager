@@ -1,0 +1,5 @@
+AreaC Pantano 100 1 AreaD
+AreaD Savana 1000 1 AreaC
+AreaF Savana 200 2 AreaC AreaD
+AreaG SelvaNebulosa 300 2 AreaD AreaC
+AreaH SelvaNebulosa 100 2 AreaD AreaG
