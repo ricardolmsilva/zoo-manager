@@ -1,3 +1,3 @@
 # zoo-manager
 
-That is the final project of discipline OOP where I could learned C#
+That was my final project developed to discipline of OOP where I I was able learn C#
